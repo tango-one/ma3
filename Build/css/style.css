@@ -9,3 +9,8 @@ a:hover {
   color: #fff;
   background: #428bca;
 }
+.hi {
+  background-color: pink;
+  font-family: sans;
+  font-size: 30px;
+}
